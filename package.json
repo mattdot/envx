@@ -1,0 +1,23 @@
+{
+  "name": "envx",
+  "version": "1.0.0",
+  "description": "Helps make sure that required environment variables are set properly",
+  "main": "src/envx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdot/envx.git"
+  },
+  "keywords": [
+    "env",
+    "environment"
+  ],
+  "author": "Matt Dotson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdot/envx/issues"
+  },
+  "homepage": "https://github.com/mattdot/envx#readme"
+}
